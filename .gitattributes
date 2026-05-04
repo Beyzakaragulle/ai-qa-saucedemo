@@ -1,0 +1,11 @@
+# Linguist — sadece TypeScript kodları istatistiklere yansısın
+
+reports/          linguist-vendored
+test-results/     linguist-vendored
+node_modules/     linguist-vendored
+playwright-report/ linguist-vendored
+
+*.html            linguist-vendored
+*.json            linguist-vendored
+*.webm            linguist-vendored
+*.png             linguist-vendored
